@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Customer.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Main.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Payment.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.joborder.resources

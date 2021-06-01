@@ -1,0 +1,217 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Customer.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Main.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Payment.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\bin\Debug\JobOrder.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.order.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.receipt.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.login.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.Reports.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.AllReport.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.technician.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\JobOrder\JobOrder\obj\Debug\JobOrder.welcome.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe.config
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.exe
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.xml
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.pdb
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.pdb
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.xml
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\ResolveAssemblyReference.cache
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.AllReport.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Customer.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.login.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Main.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Resources.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.order.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Payment.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.receipt.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Reports.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.technician.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.welcome.resources
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+D:\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.payables.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe.config
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.exe
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.xml
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.pdb
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.pdb
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.xml
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\ResolveAssemblyReference.cache
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.AllReport.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Customer.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.login.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Main.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Resources.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.order.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.payables.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Payment.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.receipt.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Reports.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.technician.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.welcome.resources
+J:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+G:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe.config
+G:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.exe
+G:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.xml
+G:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.pdb
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe.config
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.exe
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.xml
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.pdb
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.pdb
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.xml
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\ResolveAssemblyReference.cache
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.AllReport.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Customer.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.login.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Main.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Resources.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.order.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.payables.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Payment.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.receipt.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Reports.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.technician.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.welcome.resources
+D:\programs\job_order_files\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\JobOrder.xml
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\System.Web.Services.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\FlashControlV71.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\stdole.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.AllReport.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Customer.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.login.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Main.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Resources.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.order.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.payables.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Payment.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.receipt.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.Reports.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.technician.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.welcome.resources
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.xml
+C:\Users\Janobe\Downloads\joborder_ver_1.1.2\JobOrder ver 1.1.2\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.xml
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\JobOrder.xml
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\System.Web.Services.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\FlashControlV71.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\stdole.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.vbprojResolveAssemblyReference.cache
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.AllReport.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.Customer.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.login.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.Main.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.Resources.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.order.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.payables.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.Payment.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.receipt.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.Reports.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.technician.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.welcome.resources
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\Tech Kidd\Desktop\joborder\JobOrder\bin\Debug\Tech Support.exe.config
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.vbprojResolveAssemblyReference.cache
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.AllReport.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Customer.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.login.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Main.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Resources.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.order.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.payables.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Payment.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.PrintJB.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.receipt.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Reports.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.technician.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.useraccounts.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.welcome.resources
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.vbproj.GenerateResource.Cache
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.xml
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\JobOrder.xml
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\System.Web.Services.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\FlashControlV71.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\stdole.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Tech Kidd\Desktop\Tech Support\JobOrder\obj\Debug\JobOrder.Request_Appointment.resources
